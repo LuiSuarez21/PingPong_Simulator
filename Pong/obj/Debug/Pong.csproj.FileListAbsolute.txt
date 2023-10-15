@@ -1,0 +1,11 @@
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\bin\Debug\OpenTK.dll
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\bin\Debug\OpenTK.pdb
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\bin\Debug\OpenTK.xml
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\obj\Debug\Pong.csproj.CopyComplete
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\jlce1\Desktop\LESI\Portofólio\Pong\Pong\obj\Debug\Pong.pdb
